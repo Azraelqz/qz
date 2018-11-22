@@ -13,5 +13,6 @@ public class Test01 {
 		System.out.println("V");
 		System.out.println("A");
 		System.out.println("!");
+		System.out.println("!");
 	}
 }
